@@ -5,7 +5,7 @@ Here are some 2D figures drawn in AutoCAD 2023.
 - Download the dwg file.
 - Run it in your pc.
 - Want to learn how it's made?
-- Get to our [AutoCAD-2D-Practice](https://www.youtube.com/watch?v=NaATpKOfOQA&list=PL9L1_Z45QSePQfGm3WFuZnFc2ImT1M-OS&ab_channel=The9Pointers) youtube playlist.
+- Get to our [AutoCAD-2D-Practice](https://www.youtube.com/playlist?list=PL9L1_Z45QSePQfGm3WFuZnFc2ImT1M-OS) youtube playlist.
 
 Keep learning and growing!:slightly_smiling_face:
 
